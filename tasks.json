@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Repo-Test",
+    "dueDate": "2025-11-12",
+    "priority": "MEDIUM",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "Einkaufen",
+    "priority": "MEDIUM",
+    "done": true
+  },
+  {
+    "id": 3,
+    "title": "SAP Grundlagen Lernen",
+    "dueDate": "2025-12-30",
+    "priority": "HIGH",
+    "done": false
+  },
+  {
+    "id": 4,
+    "title": "Zimmer sauber machen",
+    "dueDate": "2025-11-16",
+    "priority": "HIGH",
+    "done": true
+  },
+  {
+    "id": 5,
+    "title": "Arzttermin für Augen bestätigen",
+    "dueDate": "2026-02-04",
+    "priority": "HIGH",
+    "done": false
+  },
+  {
+    "id": 6,
+    "title": "Lebenslauf verbessern",
+    "dueDate": "2025-11-07",
+    "priority": "HIGH",
+    "done": true
+  },
+  {
+    "id": 7,
+    "title": "Amazon Rücksendung vorbereiten",
+    "dueDate": "2025-11-20",
+    "priority": "LOW",
+    "done": true
+  }
+]
